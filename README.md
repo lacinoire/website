@@ -13,4 +13,4 @@ You must have npm installed globally in order to use this build environment.
 
 ## Template
 
-Using the [StartBootstrap One Page Wonder Templae](https://github.com/BlackrockDigital/startbootstrap-one-page-wonder)
+Using the [StartBootstrap One Page Wonder Template](https://github.com/BlackrockDigital/startbootstrap-one-page-wonder)
